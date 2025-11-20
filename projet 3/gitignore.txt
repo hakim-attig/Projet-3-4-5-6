@@ -1,0 +1,18 @@
+# Fichiers temporaires Office (créés automatiquement par Excel/PowerPoint)
+~$*.xlsx
+~$*.pptx
+~$*.docx
+*.tmp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dossiers temporaires
+temp/
+tmp/
+backup/
+
+# Fichiers de verrouillage Excel
+*.xlk
